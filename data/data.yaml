@@ -1,0 +1,7 @@
+train: D:/machine_learning_AI_Builders/บท4/Segmentation/Instance_segmentation/data/train/images
+val: D:/machine_learning_AI_Builders/บท4/Segmentation/Instance_segmentation/data/valid/images
+test: D:/machine_learning_AI_Builders/บท4/Segmentation/Instance_segmentation/data/test/images
+
+nc: 7
+names: ['Bird-drop', 'Defective', 'Dusty', 'Electrical-Damage', 'Non-Defective', 'Physical-Damage', 'Snow']
+
